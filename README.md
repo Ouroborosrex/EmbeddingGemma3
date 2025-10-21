@@ -1,3 +1,5 @@
 # EmbeddingGemma3
-
-```unzip myproject.zip```
+To extract the model just run:
+```bash
+ unzip myproject.zip
+```
