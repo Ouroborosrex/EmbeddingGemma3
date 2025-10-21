@@ -4,6 +4,8 @@
 
 > Oh wait... I am the fed boy!
 
-So to run this you need to run the ```bash
+So to run this you need to run the bash file:
+```bash 
 bash build.sh
-``` file. This will rebuild the model.safetensor file
+```
+This will rebuild the model.safetensor file
